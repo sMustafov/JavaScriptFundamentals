@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="359d49ff-613c-42f6-9168-cbe0ed4a5e25" name="Default" comment="" />
-    <ignored path="5.Homework-FunctionsAndArrowFunctions.iws" />
+    <list default="true" id="3522cdb9-0640-4801-a06d-ee90c44b93e3" name="Default" comment="" />
+    <ignored path="Homework-ArraysAndMatrices.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,65 +17,105 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="5.Homework-FunctionsAndArrowFunctions" />
+    <favorites_list name="Homework-ArraysAndMatrices" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="1.TriangleOfStars.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.TriangleOfStars.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="1.SumFirstAndLastArrayElements.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.SumFirstAndLastArrayElements.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="34">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.RectangleOfStars.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.RectangleOfStars.js">
+      <file leaf-file-name="2.EvenPositionElements.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.EvenPositionElements.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3.Palindrome.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.Palindrome.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4.DayOfTheWeek.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.DayOfTheWeek.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5.FunctionalCalculator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.FunctionalCalculator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="6.AggregateElements.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/6.AggregateElements.js">
+      <file leaf-file-name="3.NegativePositiveNumbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.NegativePositiveNumbers.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.FirstAndLastKNumbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.FirstAndLastKNumbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5.SumLastKNumbersSequence.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.SumLastKNumbersSequence.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6.ProcessOddNumbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.ProcessOddNumbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7.SmallestTwoNumbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7.SmallestTwoNumbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8.BiggestElement.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.BiggestElement.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9.DiagonalSums.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9.DiagonalSums.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10.EqualNeighbors.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10.EqualNeighbors.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -93,13 +133,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/4.DayOfTheWeek.js" />
-        <option value="$PROJECT_DIR$/1.TriangleOfStars.js" />
-        <option value="$PROJECT_DIR$/2.RectangleOfStars.js" />
-        <option value="$PROJECT_DIR$/3.Palindrome.js" />
-        <option value="$PROJECT_DIR$/5.functionalCalculator.js" />
-        <option value="$PROJECT_DIR$/5.FunctionalCalculator.js" />
-        <option value="$PROJECT_DIR$/6.AggregateElements.js" />
+        <option value="$PROJECT_DIR$/1.SumFirstAndLastArrayElements.js" />
+        <option value="$PROJECT_DIR$/2.EvenPositionElements.js" />
+        <option value="$PROJECT_DIR$/3.NegativePositiveNumbers.js" />
+        <option value="$PROJECT_DIR$/7.SmallestTwoNumbers.js" />
+        <option value="$PROJECT_DIR$/8.BiggestElement.js" />
+        <option value="$PROJECT_DIR$/9.DiagonalSums.js" />
+        <option value="$PROJECT_DIR$/6.ProcessOddNumbers.js" />
+        <option value="$PROJECT_DIR$/4.FirstAndLastKNumbers.js" />
+        <option value="$PROJECT_DIR$/5.SumLastKNumbersSequence.js" />
+        <option value="$PROJECT_DIR$/10.EqualNeighbors.js" />
       </list>
     </option>
   </component>
@@ -140,28 +183,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="5.Homework-FunctionsAndArrowFunctions" />
+              <option name="myItemId" value="7.Homework-ArraysAndMatrices" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="5.Homework-FunctionsAndArrowFunctions" />
+              <option name="myItemId" value="7.Homework-ArraysAndMatrices" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="5.Homework-FunctionsAndArrowFunctions" />
+              <option name="myItemId" value="7.Homework-ArraysAndMatrices" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,21 +216,16 @@
     <property name="javascript.nodejs.core.library.configured.version" value="6.2.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Node.js.5.FunctionalCalculator.js">
-    <configuration default="false" name="1.TriangleOfStars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="1.TriangleOfStars.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.10.EqualNeighbors.js">
+    <configuration default="false" name="4.FirstAndLastKNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="4.FirstAndLastKNumbers.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="2.RectangleOfStars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="2.RectangleOfStars.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="5.SumLastKNumbersSequence.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="5.SumLastKNumbersSequence.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="3.Palindrome.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="3.Palindrome.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
-    <configuration default="false" name="4.DayOfTheWeek.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="4.DayOfTheWeek.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
-    <configuration default="false" name="5.FunctionalCalculator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="5.FunctionalCalculator.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="10.EqualNeighbors.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10.EqualNeighbors.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -215,6 +253,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -237,20 +281,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.1.TriangleOfStars.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.2.RectangleOfStars.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.3.Palindrome.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.4.DayOfTheWeek.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.5.FunctionalCalculator.js" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.4.FirstAndLastKNumbers.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.5.SumLastKNumbersSequence.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.10.EqualNeighbors.js" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.5.FunctionalCalculator.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.3.Palindrome.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.4.DayOfTheWeek.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.2.RectangleOfStars.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.1.TriangleOfStars.js" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.10.EqualNeighbors.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.5.SumLastKNumbersSequence.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.4.FirstAndLastKNumbers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -262,18 +302,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="359d49ff-613c-42f6-9168-cbe0ed4a5e25" name="Default" comment="" />
-      <created>1474552853440</created>
+      <changelist id="3522cdb9-0640-4801-a06d-ee90c44b93e3" name="Default" comment="" />
+      <created>1475039349655</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1474552853440</updated>
-      <workItem from="1474552855180" duration="599000" />
-      <workItem from="1474563728780" duration="4632000" />
+      <updated>1475039349655</updated>
+      <workItem from="1475039351435" duration="2766000" />
+      <workItem from="1475121900938" duration="3484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5231000" />
+    <option name="totallyTimeSpent" value="6250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -310,63 +350,143 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/1.TriangleOfStars.js</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.TriangleOfStars.js">
+    <entry file="file://$PROJECT_DIR$/1.SumFirstAndLastArrayElements.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.RectangleOfStars.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.Palindrome.js">
+    <entry file="file://$PROJECT_DIR$/2.EvenPositionElements.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.DayOfTheWeek.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.FunctionalCalculator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.AggregateElements.js">
+    <entry file="file://$PROJECT_DIR$/3.NegativePositiveNumbers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.FirstAndLastKNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.SumLastKNumbersSequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ProcessOddNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.SmallestTwoNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.SumFirstAndLastArrayElements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.EvenPositionElements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.NegativePositiveNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.FirstAndLastKNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.SumLastKNumbersSequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.ProcessOddNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.SmallestTwoNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.BiggestElement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.DiagonalSums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.EqualNeighbors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding />
         </state>
       </provider>

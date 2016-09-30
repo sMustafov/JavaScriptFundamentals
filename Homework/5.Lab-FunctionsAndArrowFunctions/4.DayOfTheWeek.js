@@ -18,6 +18,3 @@ function dayOfTheWeek([day]){
             return 'error';
     }
 }
-
-console.log(dayOfTheWeek(['Frqweqeqwy']));
-console.log(dayOfTheWeek(['Friday']));

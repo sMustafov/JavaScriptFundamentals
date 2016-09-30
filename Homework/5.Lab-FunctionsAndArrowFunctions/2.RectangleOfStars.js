@@ -3,9 +3,7 @@ function rectangleOfStars(n) {
         console.log("*" +
             " *".repeat(count - 1));
     }
-    for (let i = 1; i <= n; i++)
+    for (let i = 1; i <= n; i++) {
         printStars();
+    }
 }
-
-
-rectangleOfStars(['3'])

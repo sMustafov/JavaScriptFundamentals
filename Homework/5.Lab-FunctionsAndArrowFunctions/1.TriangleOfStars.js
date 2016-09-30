@@ -9,6 +9,3 @@ function triangleOfStars(n) {
         printStars(i);
     }
 }
-
-
-triangleOfStars(['5'])

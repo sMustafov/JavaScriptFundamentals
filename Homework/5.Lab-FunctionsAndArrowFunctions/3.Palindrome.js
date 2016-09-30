@@ -7,7 +7,3 @@ function palindrome([str]) {
 
     return true;
 }
-
-console.log(palindrome(['haha']));
-console.log(palindrome(['racecar']));
-console.log(palindrome(['unitinu']));

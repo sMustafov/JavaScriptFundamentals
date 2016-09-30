@@ -29,5 +29,3 @@ function functionalCalculator([a, b, operator]) {
             break;
     }
 }
-
-functionalCalculator(['3', '3', '/'])
